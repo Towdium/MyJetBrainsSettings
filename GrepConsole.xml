@@ -107,12 +107,10 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*" />
                       <option name="id" value="315e730d-3730-4d16-b08e-b24e26d19e52" />
                       <option name="inputFilter" value="true" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -127,11 +125,8 @@
                       <option name="unlessGrepExpression" value=".*jecalculation.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*jecalculation.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="c8897cf6-906d-4089-a699-6aa290a31d8f" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
