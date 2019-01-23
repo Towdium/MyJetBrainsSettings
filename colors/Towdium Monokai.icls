@@ -1,10 +1,10 @@
 <scheme name="Towdium Monokai" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-08-25T23:41:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-11-06T01:00:23</property>
+    <property name="modified">2019-01-23T13:53:03</property>
     <property name="originalScheme">Monokai ver. Towdium copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -12,7 +12,6 @@
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -498,6 +497,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="353535" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="717171" />
+        <option name="BACKGROUND" value="2e343d" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="797979" />
+        <option name="BACKGROUND" value="575757" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
