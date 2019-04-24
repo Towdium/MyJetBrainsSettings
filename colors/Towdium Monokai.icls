@@ -4,11 +4,11 @@
     <property name="created">2017-08-25T23:41:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2019-01-23T13:53:03</property>
+    <property name="modified">2019-04-24T17:46:39</property>
     <property name="originalScheme">Monokai ver. Towdium copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
